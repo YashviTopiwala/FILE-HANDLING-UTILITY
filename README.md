@@ -26,36 +26,57 @@ In the write operation, the user enters text which gets stored inside the file. 
 This task helped in understanding how permanent data storage works in Java applications and how files can be manipulated programmatically.
 
 🧠 CONCEPTS USED
+
 Operation	Class Used
+
 Write File	FileWriter
+
 Read File	BufferedReader + FileReader
+
 Modify File	Read + Rewrite
+
 User Input	Scanner
+
 Error Handling	Try-Catch (IOException)
+
 📂 PROJECT STRUCTURE
 
 FileHandlingUtility/
+
 ├── FileUtility.java
+
 ├── sample.txt
+
 └── README.md
 
 ⚙️ FEATURES
 
 1. Write text into a file
+
 2. Read text from a file
+
 3. Modify existing file content
+
 4. Menu-driven console program
+
 5. Exception handling implemented
 
 💻 TECHNOLOGIES / TOOLS USED
 
 Java (JDK 8+)
+
 java.io package
+
 FileWriter
+
 FileReader
+
 BufferedReader
+
 Scanner Class
+
 Command Prompt / PowerShell
+
 Git & GitHub
 
 ▶️ HOW TO RUN
